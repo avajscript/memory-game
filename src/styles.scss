@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,300;1,500&display=swap");
+$black: #03071e;
+$redA: #370617;
+$redB: #6a040f;
+$redC: #9d0208;
+$redD: #d00000;
+$redE: #dc2f02;
+$orangeA: #e85d04;
+$orangeB: #f48c06;
+$orangeC: #faa307;
+$yellow: #ffba08;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat;
+}
+
+h1 {
+  color: $black;
+}
+
+p {
+  color: $black;
+}
