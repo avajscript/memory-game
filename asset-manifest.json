@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/miscany/memory-game/static/css/main.073c9b0a.css",
+    "main.js": "/miscany/memory-game/static/js/main.c50c7308.js",
+    "index.html": "/miscany/memory-game/index.html",
+    "main.073c9b0a.css.map": "/miscany/memory-game/static/css/main.073c9b0a.css.map",
+    "main.c50c7308.js.map": "/miscany/memory-game/static/js/main.c50c7308.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c50c7308.js"
+  ]
+}
