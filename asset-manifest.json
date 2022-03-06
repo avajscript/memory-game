@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/miscany/memory-game/static/css/main.073c9b0a.css",
-    "main.js": "/miscany/memory-game/static/js/main.c50c7308.js",
+    "main.css": "/miscany/memory-game/static/css/main.723a3359.css",
+    "main.js": "/miscany/memory-game/static/js/main.786faeb9.js",
+    "static/media/KingFlippynips.png": "/miscany/memory-game/static/media/KingFlippynips.7bfcfbb7fefb93678ec2.png",
+    "static/media/Jessica.png": "/miscany/memory-game/static/media/Jessica.e3b970f31bf48452012e.png",
+    "static/media/Rick.png": "/miscany/memory-game/static/media/Rick.f1bcce172df5b3041d48.png",
+    "static/media/Beth.png": "/miscany/memory-game/static/media/Beth.a65a89e046f62483ebec.png",
+    "static/media/Morty.png": "/miscany/memory-game/static/media/Morty.ad7be39fdc2e23b87325.png",
+    "static/media/ScaryTerry.png": "/miscany/memory-game/static/media/ScaryTerry.d47263378f771aded592.png",
+    "static/media/Jerry.png": "/miscany/memory-game/static/media/Jerry.e02246a5265927aeec96.png",
+    "static/media/MrPoopyButthole.png": "/miscany/memory-game/static/media/MrPoopyButthole.eabb05a59590b8798adb.png",
+    "static/media/Squanchy.jpg": "/miscany/memory-game/static/media/Squanchy.a9cc4fd1aea7a8d324e5.jpg",
+    "static/media/Summer.jpg": "/miscany/memory-game/static/media/Summer.ef5f5761a64ebca3530f.jpg",
+    "static/media/BirdPerson.jpg": "/miscany/memory-game/static/media/BirdPerson.46087746829cbb74f730.jpg",
+    "static/media/Tammy.jpg": "/miscany/memory-game/static/media/Tammy.71b6c5dbe5c9ba28dba9.jpg",
     "index.html": "/miscany/memory-game/index.html",
-    "main.073c9b0a.css.map": "/miscany/memory-game/static/css/main.073c9b0a.css.map",
-    "main.c50c7308.js.map": "/miscany/memory-game/static/js/main.c50c7308.js.map"
+    "main.723a3359.css.map": "/miscany/memory-game/static/css/main.723a3359.css.map",
+    "main.786faeb9.js.map": "/miscany/memory-game/static/js/main.786faeb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c50c7308.js"
+    "static/css/main.723a3359.css",
+    "static/js/main.786faeb9.js"
   ]
 }
